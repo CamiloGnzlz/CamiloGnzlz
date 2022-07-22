@@ -1,4 +1,4 @@
-<h3 align="center">Camilo González - Junior Software Developer </h3>
+<h3 align="center">Camilo González - Junior Front End Developer </h3>
 
 </p>
 
