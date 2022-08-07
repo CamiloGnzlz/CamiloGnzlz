@@ -7,7 +7,7 @@
 
 <h3 align="center"> Current Learning </h3>
 
-<p align="center"><b>Python, React.JS, Angular.JS, Node.JS</b><p>
+<p align="center"><b>Python, Angular.JS, Node.JS</b><p>
 
 
 
