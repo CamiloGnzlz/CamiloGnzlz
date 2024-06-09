@@ -19,6 +19,6 @@
 
 <h3 align="left">Contact me</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/camilo-gonzález-9b369222b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/camilo-gonzález-9b369222b/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/camilogonzalezm93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/camilo-gonzález-9b369222b/" height="30" width="40" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CamiloGnzlz&label=Profile%20views&color=FFBD00&style=flat" alt="CamiloGnzlz" /> </p>
